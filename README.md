@@ -1,2 +1,3 @@
 # roboticsTraining
-test repository to be used to train robotics students
+Test repository to be used to train robotics students.
+Learn the best workflow for collaboration.
