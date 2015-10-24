@@ -1,3 +1,7 @@
 This is a test file.
 I like to create different stuff.
+<<<<<<< HEAD
+This is my 2nd line.
+=======
+>>>>>>> refs/remotes/origin/master
 With more stuff in it.
